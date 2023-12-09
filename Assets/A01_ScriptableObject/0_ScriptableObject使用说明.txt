@@ -1,0 +1,7 @@
+(1) 请先打开 本目录的 UseScriptableObject.cs 文件, 跟着它的注释 创建一个 ScriptableObject 文件;
+
+(2) 然后在 inspector 中配置这个文件的数据
+
+(3) 再打开 本目录的 A01_ScriptableObject 场景, 把新建的 so文件 挂载到场景内 ReadScriptableObject 的 组件里, 然后运行场景
+    此时可以看到 ReadScriptableObject.cs 脚本读取到了这个 so文件, 并把它体内的数据全部打印到了 console 中;
+
