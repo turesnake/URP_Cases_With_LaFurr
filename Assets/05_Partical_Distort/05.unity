@@ -556,7 +556,7 @@ PrefabInstance:
     - target: {fileID: 6405375701755329135, guid: b2d652b073cfd2344b0fed5e26850426,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: -1.1513668
+      value: 1.151367
       objectReference: {fileID: 0}
     - target: {fileID: 6405375701755329135, guid: b2d652b073cfd2344b0fed5e26850426,
         type: 3}
@@ -566,17 +566,17 @@ PrefabInstance:
     - target: {fileID: 6405375701755329135, guid: b2d652b073cfd2344b0fed5e26850426,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.82
+      value: -0.21
       objectReference: {fileID: 0}
     - target: {fileID: 6405375701755329135, guid: b2d652b073cfd2344b0fed5e26850426,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.3
+      value: 1.05
       objectReference: {fileID: 0}
     - target: {fileID: 6405375701755329135, guid: b2d652b073cfd2344b0fed5e26850426,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.76
+      value: 0.04
       objectReference: {fileID: 0}
     - target: {fileID: 6405375701755329135, guid: b2d652b073cfd2344b0fed5e26850426,
         type: 3}
@@ -616,7 +616,7 @@ PrefabInstance:
     - target: {fileID: 6405375701755329135, guid: b2d652b073cfd2344b0fed5e26850426,
         type: 3}
       propertyPath: m_ConstrainProportionsScale
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b2d652b073cfd2344b0fed5e26850426, type: 3}
@@ -683,8 +683,8 @@ Camera:
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
   m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
+  m_HDR: 0
+  m_AllowMSAA: 0
   m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1

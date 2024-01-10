@@ -21,6 +21,8 @@ Shader "TPR/Distort" {
         Pass {
             Tags{ "LightMode" = "GrabTexture" }
 
+            Name "Distort_1"
+
             Blend SrcAlpha OneMinusSrcAlpha
             Cull Off
             ZWrite [__ZWrite]
